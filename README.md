@@ -29,7 +29,7 @@
 
 ## [安亭彭于晏](https://github.com/ReGetALife/hackathon2018) 
 ##### BITRUN Block Height：0019
-#### 团队成员：林赵伟、张宇、成佳杰、李庆国
+#### 团队成员：赵伟、张宇、成佳杰、李庆国
 #### 项目简介：
 
 <Br/>
