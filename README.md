@@ -60,3 +60,16 @@
 #### 团队成员：吴丹钦、郭嘉晏、龙鹏、刘龙龙、张诗雨
 #### 项目简介：
 
+<Br/>
+
+## [萌芽奇点](https://github.com/FUTingFei/HalloweenBancor) 
+##### BITRUN Block Height：0024
+#### 团队成员：付庭飞、张涵、彭启洲、仲晴、张胜楠
+#### 项目简介：
+
+<Br/>
+
+## [ymh说的都队](https://github.com/igululu/Planck) 
+##### BITRUN Block Height：0025
+#### 团队成员：阿思亘、王振、吕岩松、李文渊、杨明荟
+#### 项目简介：
