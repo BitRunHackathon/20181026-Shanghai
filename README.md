@@ -34,7 +34,8 @@
 ## [安亭彭于晏](https://github.com/ReGetALife/hackathon2018) 
 ##### BITRUN Block Height：0019
 #### 团队成员：赵伟、张宇、成佳杰、李庆国
-#### 项目简介：
+#### 项目简介：烙印（In Love）
+一款为情侣专属打造的基于Nervos的Dapp
 
 <Br/>
 
@@ -62,14 +63,14 @@
 ## [繁星猛男](https://github.com/dragonroclp/CoinPay) 
 ##### BITRUN Block Height：0023
 #### 团队成员：吴丹钦、郭嘉晏、龙鹏、刘龙龙、张诗雨
-#### 项目简介：
+#### 项目简介：去中心化闪兑协议
 
 <Br/>
 
 ## [萌芽奇点](https://github.com/FUTingFei/HalloweenBancor) 
 ##### BITRUN Block Height：0024
 #### 团队成员：付庭飞、张涵、彭启洲、仲晴、张胜楠
-#### 项目简介：
+#### 项目简介：Decentralized exchange based on Bancor
 
 <Br/>
 
