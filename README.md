@@ -20,7 +20,8 @@
 ## [皮卡丘](https://github.com/Andrew201801/Pikachu.git) 
 ##### BITRUN Block Height：0017
 #### 团队成员：余志杰、孙瑞、马润薪、孙翼、屈福阳
-#### 项目简介：
+#### 项目简介：航空积分使用场景
+[发现隐藏彩蛋](https://github.com/Andrew201801/Pikachu/blob/master/target/Pikachu/statics/image/Placeholder.png)求奖励！
 
 <Br/>
 
@@ -42,7 +43,9 @@
 ## [头发不会掉](https://github.com/leonnnop/No-Hair-Warning-Bitrun2018) 
 ##### BITRUN Block Height：0020
 #### 团队成员：梁永潮、陈志、梁琛、贺鹏程、罗吉皓
-#### 项目简介：
+#### 项目简介：一款基于区块链的推币机
+推币机中的硬币（数字货币）总数是可见的，但是每个推币机的币的分布不可见。
+整个游戏过程中，我们组打算利用随机数决定每一次投币之后出币的可能性。
 
 <Br/>
 
@@ -113,4 +116,4 @@
 ## [Team_Pysix](https://github.com/eEhyQx/Pyxis) 
 ##### BITRUN Block Height：0030
 #### 团队成员：张启煊、井皓天、张思成、郑泽域
-#### 项目简介：无竞 BidChain
+#### 项目简介：无竞（BidChain）是一套基于区块链的多模式招标系统
