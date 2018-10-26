@@ -81,4 +81,31 @@
 #### 团队成员：徐亮、蔡珏、陈怡萍、刘乐、张仁骞
 #### 项目简介：
 
+<Br/>
 
+## [twinkle! China](https://github.com/BBJBBQ/BitRun) 
+##### BITRUN Block Height：0027
+#### 团队成员：鲍捷、李思纯、刘恺诚、杨裕欣、陈向玲
+#### 项目简介：
+
+
+<Br/>
+
+## [china No.1]() 
+##### BITRUN Block Height：0028
+#### 团队成员：
+#### 项目简介：
+
+<Br/>
+
+## [我忘了](https://github.com/livc/BitrunHackathon_2018SH) 
+##### BITRUN Block Height：0029
+#### 团队成员：李钊、朱俊诚、汪毅、5sWind
+#### 项目简介：
+
+<Br/>
+
+## [Team_Pysix](https://github.com/eEhyQx/Pyxis) 
+##### BITRUN Block Height：0030
+#### 团队成员：张启煊、井皓天、张思成、郑泽域
+#### 项目简介：无竞 BidChain
