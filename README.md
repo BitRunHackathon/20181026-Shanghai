@@ -101,7 +101,7 @@
 
 ## [china No.1](https://github.com/shen0100/cryptyogame) 
 ##### BITRUN Block Height：0028
-#### 团队成员：
+#### 团队成员：周为宽、Ethan、申展宇
 #### 项目简介：
 
 <Br/>
