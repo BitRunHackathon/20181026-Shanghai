@@ -21,7 +21,8 @@
 ##### BITRUN Block Height：0017
 #### 团队成员：余志杰、孙瑞、马润薪、孙翼、屈福阳
 #### 项目简介：航空积分使用场景
-[发现隐藏彩蛋](https://github.com/Andrew201801/Pikachu/blob/master/target/Pikachu/statics/image/Placeholder.png)求奖励！
+提出产品方案：以航空积分使用为场景，做bitmart提供的第十题。
+题目：设计实现分组分层区块链网络：根据成员节点的信任关系自动组合成网络，同时根据不同的信任关系采用不同的共识算法，从而实现一个分组分层的区块链网络，最大程度上提高效率；支持节点信任关系转变（原节点属于group a，后来转为group b）
 
 <Br/>
 
@@ -37,6 +38,11 @@
 #### 团队成员：赵伟、张宇、成佳杰、李庆国
 #### 项目简介：烙印（In Love）
 一款为情侣专属打造的基于Nervos的Dapp
+构思项目：
+1.基于nervos开发的Dapp
+2.使用人群为情侣
+3.情侣间的小秘密、承诺、手账、纪念日记录在区块链中永久保存
+4.情侣做出一致选择的旅游地点将被记录
 
 <Br/>
 
@@ -59,7 +65,7 @@
 ## [Matrix](https://github.com/MatrixBitrun/Matrix) 
 ##### BITRUN Block Height：0022
 #### 团队成员：李靖儒、刘万、路赛赛、陈九历、李海
-#### 项目简介：
+#### 项目简介：基于代币激励的3D旅游图像建模
 
 <Br/>
 
@@ -67,6 +73,8 @@
 ##### BITRUN Block Height：0023
 #### 团队成员：吴丹钦、郭嘉晏、龙鹏、刘龙龙、张诗雨
 #### 项目简介：去中心化闪兑协议
+项目描述
+CoinPay是一个数字货币交易和转换系统，使得用户能快速的将自己手中的某种代币转换为等价的其他代币，并提供能使用户在闪兑过程中获得额外收益的功能。CoinPay解决的主要问题是，用户不需要像在中心化交易所那样充值提现，而直接可以使用去中心化交易平台在不同代币之间进行无缝支付。
 
 <Br/>
 
@@ -80,7 +88,8 @@
 ## [ymh说的都队](https://github.com/igululu/Planck) 
 ##### BITRUN Block Height：0025
 #### 团队成员：阿思亘、王振、吕岩松、李文渊、杨明荟
-#### 项目简介：
+#### 项目简介：vue-admin-template
+这是一个极简的vue admin管理后台它只包含了Element UI & axios & iconfont & permission control & lint，这些搭建后台必要的东西。
 
 <Br/>
 
@@ -99,7 +108,7 @@
 
 <Br/>
 
-## [china No.1](https://github.com/shen0100/cryptyogame) 
+## [cryptogame](https://github.com/shen0100/cryptyogame) 
 ##### BITRUN Block Height：0028
 #### 团队成员：周为宽、Ethan、申展宇
 #### 项目简介：
@@ -109,7 +118,7 @@
 ## [我忘了](https://github.com/livc/BitrunHackathon_2018SH) 
 ##### BITRUN Block Height：0029
 #### 团队成员：李钊、朱俊诚、汪毅、5sWind
-#### 项目简介：
+#### 项目简介：Next-generation Commercial Bidding System Based On Stablecoin
 
 <Br/>
 
@@ -117,3 +126,14 @@
 ##### BITRUN Block Height：0030
 #### 团队成员：张启煊、井皓天、张思成、郑泽域
 #### 项目简介：无竞（BidChain）是一套基于区块链的多模式招标系统
+##### Keywords
+1.区块链
+2.加密
+3.公开/非公开/邀请制招标
+4.完全互不知保证
+##### 平台化实现
+1.开发一套面向用户的图形化二次开发工具
+2.实现评估标准的自主傻瓜式订制
+3.对外提供数据接口，实现信息的整合
+4.评估标准中引入偏好比例分
+5.采用币值相对稳定的Dai币进行交易
