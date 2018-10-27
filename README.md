@@ -20,9 +20,8 @@
 ## [皮卡丘](https://github.com/Andrew201801/Pikachu.git) 
 ##### BITRUN Block Height：0017
 #### 团队成员：余志杰、孙瑞、马润薪、孙翼、屈福阳
-#### 项目简介：航空积分使用场景
-提出产品方案：以航空积分使用为场景，做bitmart提供的第十题。
-题目：设计实现分组分层区块链网络：根据成员节点的信任关系自动组合成网络，同时根据不同的信任关系采用不同的共识算法，从而实现一个分组分层的区块链网络，最大程度上提高效率；支持节点信任关系转变（原节点属于group a，后来转为group b）
+#### 项目简介：Pikachu 航空信用积分系统
+设计思路：皮卡丘积分信誉系统通过为个人和公司设置账户，对彼此之间和内部的交易进行监控并分析，并在其中添加积分和信用属性，并依据信用分数为个人和公司的信用等级进行评测，限制市场中投机套利行为的出现、维持正常良好交易环境。
 
 <Br/>
 
@@ -115,7 +114,7 @@ CoinPay是一个数字货币交易和转换系统，使得用户能快速的将�
 
 <Br/>
 
-## [我忘了](https://github.com/livc/BitrunHackathon_2018SH) 
+## [队名我忘了](https://github.com/livc/BitrunHackathon_2018SH) 
 ##### BITRUN Block Height：0029
 #### 团队成员：李钊、朱俊诚、汪毅、5sWind
 #### 项目简介：Next-generation Commercial Bidding System Based On Stablecoin
