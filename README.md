@@ -120,7 +120,7 @@ Tensor团队旨在打造一款有趣、炫酷、公平、安全的去中心化�
 
 <Br/>
 
-## [cryptogame](https://github.com/shen0100/cryptyogame) 
+## [hungergame](https://github.com/shen0100/cryptyogame) 
 ##### BITRUN Block Height：0028
 #### 团队成员：周为宽、Ethan、申展宇
 #### 项目简介：以饥饿游戏为原型的多人在线生存游戏
