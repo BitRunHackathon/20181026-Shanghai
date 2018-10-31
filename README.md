@@ -134,7 +134,7 @@ Tensor团队旨在打造一款有趣、炫酷、公平、安全的去中心化�
 
 <Br/>
 
-## [Team_Pysix](https://github.com/eEhyQx/Pyxis) 
+## [Team_Pyxis](https://github.com/eEhyQx/Pyxis) 
 ##### BITRUN Block Height：0030
 #### 团队成员：张启煊、井皓天、张思成、郑泽域
 #### 项目简介：无竞（BidChain）是一套基于区块链的多模式招标系统
